@@ -1,0 +1,13 @@
+.background{
+    background: url("../../Assets/blue-gradient-background.png");
+}
+  .copyright {
+    background-color: #684cfa;
+  }
+  
+  ul , li{
+      list-style: none;
+      text-align: center;
+      justify-content: center;
+  }
+  

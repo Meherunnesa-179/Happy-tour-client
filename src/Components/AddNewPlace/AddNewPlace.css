@@ -1,0 +1,12 @@
+.new-place{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
+input , textarea {
+    width: 50%;
+    margin: 10px;
+    color:blue;
+}
